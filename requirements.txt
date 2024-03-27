@@ -1,0 +1,7 @@
+numpy
+beautifulsoup4==4.9.3
+requests
+pandas
+streamlit
+matplotlib
+seaborn
